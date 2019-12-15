@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h3 style="color: lightgreen;">Contact info</h3>
+    <ol>
+    <li>Phone number:01785527186</li>
+    <li>Email addres:mutasimfuadsarid@gmail.com</li>
+    </ol>
+    <form action="mailto:mutasimfuadsarid@gmail.com" method="POST" enctype="text/plain">
+        <lebel>Your Name:</lebel>
+        <input type="text" name="Your name:"><br>
+        <br>
+        <lebel>Your email address:</lebel>
+        <input type="email" name="Your Emai:"><br>
+        <br>
+        <lebel>Your Message:</lebel><br>
+        <textarea name="Your Message" rows="9" cols="9"></textarea><br>
+        <br>
+        <input type="submit">
+    </form>
+    <hr>
+    <h3>Thanks For visiting My Website</h3>
+</body>
+</html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+            <title>Sarid's Personal Website</title>
+    </head>
+    <body>
+        <table cellspacing='20'>
+            <tr>
+                <td><img src="PicsArt_12-14-09.30.35.jpg" alt="Sarid's Pic" height="250" width="250"></td>
+                <td><h1>Mutasim Fuad Sarid</h1>
+                <h2 Founder of The style="color: lightgreen;">Sarid's Web development Agency</h5>
+                <p>I am Mutasim Fuad Sarid.I am a web designer & a junior web developer also.I have a 3 years of working experience.If you are looking for a web developer who can make a web site for you with an attractive looks which keeps the visitor for a long time in your website then you are in the right place.Give me a task and see the reasult.</p>
+                <hr></td>
+            </tr>
+            
+        </table>
+    
+    
+    <h3 style="color: lightgreen;">Educational Qualifications</h3>
+    <table border="3">
+        <tr>
+           <th>Name of Exam</th>
+           <th>Institution Name</th>
+           <th>Passing Year</th>
+           <th>Board</th>
+           <th>GPA</th>
+        </tr>
+        <tr>
+           <td>S.S.C</td>
+           <td>Bindubashini Govt. Boys' High School</td>
+           <td>2016</td>
+           <td>Dhaka</td>
+           <td>5.00</td>
+        </tr>
+        <tr>
+           <td>H.S.C</td>
+           <td>Major General Mahmudul Hasan College</td>
+           <td>2018</td>
+           <td>Dhaka</td>
+           <td>4.83</td>
+        </tr>
+        <tr>
+            <td>B.S.C Eng. in EEE</td>
+            <td> <a href="https://just.edu.bd/">Jashore University Of Science & Technology</a></td>
+            <td>2023</td>
+            <td>Jashore</td>
+            <td>3.67</td>
+         </tr>
+     </table>
+     <hr>
+     <h3 style="color: lightgreen;">Skills</h3>
+     <table border='3'>
+         <tr>
+             <td>HTML</td>
+             <td>⭐⭐⭐⭐⭐</td>
+             <td>CSS</td>
+             <td>⭐⭐⭐⭐⭐</td>
+         </tr>
+         <tr>
+                <td>Bootstrap</td>
+                <td>⭐⭐⭐⭐</td>
+                <td>PHP</td>
+                <td>⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>Java</td>
+                <td>⭐⭐⭐</td>
+                <td>Javascript</td>
+                <td>⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>jQuery</td>
+                <td>⭐⭐</td>
+                <td>SEO</td>
+                <td>⭐⭐</td>
+                </tr>
+     </table>
+     <hr>
+     <a href="contact.html">Contact info</a>
+    </body>
+</html>
+
+
+
+
